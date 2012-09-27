@@ -1,3 +1,9 @@
+== For forgetful me, Naohiro
+1. git clone [this repo's url]
+2. rake db:migrate (page 64 of the book)
+3. rake db:seed (page 69 of the book)
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
