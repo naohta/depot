@@ -1,3 +1,6 @@
+== Perfect code
+http://pragprog.com/titles/rails4/source_code
+
 == For forgetful me, Naohiro
 1. git clone [this repo's url]
 2. rake db:migrate (page 64 of the book)
